@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lemniscate", "Lemniscate\Lemniscate.csproj", "{5CF3B63C-1B44-4067-882A-AC1427BEC762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemniscateTesting", "LemniscateTesting\LemniscateTesting.csproj", "{3E80F743-D871-4247-ACC4-44F211C06F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF3B63C-1B44-4067-882A-AC1427BEC762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF3B63C-1B44-4067-882A-AC1427BEC762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF3B63C-1B44-4067-882A-AC1427BEC762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF3B63C-1B44-4067-882A-AC1427BEC762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E80F743-D871-4247-ACC4-44F211C06F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E80F743-D871-4247-ACC4-44F211C06F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E80F743-D871-4247-ACC4-44F211C06F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E80F743-D871-4247-ACC4-44F211C06F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD90CB4-B812-4810-9186-7300880188AB}
+	EndGlobalSection
+EndGlobal
